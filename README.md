@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bhuvanesh1309
+- 👋 Hi, I’m bhuvanesh
 - 👀 I’m interested in frondend development and data analyst and uiux design
 - 🌱 I’m currently learning full stack development and data science with python
 - 💞️ I’m looking to collaborate on innovative projects that combine design, development, and data analysis to create impactful user experiences.
